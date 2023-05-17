@@ -1,2 +1,2 @@
-# first-libux-project
+# first-linux-project
 via shell commands
